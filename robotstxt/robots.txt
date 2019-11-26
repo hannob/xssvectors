@@ -1,0 +1,5 @@
+User-agent: "><img src=x onerror=alert(0)>
+Allow: "><img src=x onerror=alert(3)>
+Sitemap: https://example.invalid/"><img src=x onerror=alert(4)>
+XSS: "><img src=x onerror=alert(1)>
+"><img src=x onerror=alert(2)>: XSS
